@@ -26,9 +26,6 @@ project:
     - file: index
     - file: syllabus
     - file: calendar
-    - file: data
-    - file: unit1
-    - file: unit2
 site:
   template: book-theme
   title: 'Stat 155'
