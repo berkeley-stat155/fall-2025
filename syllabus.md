@@ -1,7 +1,3 @@
----
-title: "Description"
----
-
 
 This course provides a broad survey of topics at the interface of
 theoretical computer science and economics. There are two overarching
