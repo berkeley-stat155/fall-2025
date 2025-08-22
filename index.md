@@ -8,7 +8,7 @@ subtitle: "UC Berkeley, Fall 2025"
 :::{card}
 :header: **Instructor Name**
 
-![Adam Lucas]
+Adam Lucas
 
 +++
 
@@ -20,7 +20,7 @@ subtitle: "UC Berkeley, Fall 2025"
 :::{card}
 :header: **GSI Name**
 
-![Mriganka Basu Roy Chowdhury]
+Mriganka Basu Roy Chowdhury
 
 +++
 
