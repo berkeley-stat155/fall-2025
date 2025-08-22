@@ -8,7 +8,7 @@ subtitle: "UC Berkeley, Fall 2025"
 :::{card}
 :header: **Instructor Name**
 
-![Instructor Name](images/firefly-instructor.jpg)
+![Adam Lucas](images/firefly-instructor.jpg)
 
 +++
 
