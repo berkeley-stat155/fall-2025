@@ -8,13 +8,13 @@ subtitle: "UC Berkeley, Fall 2025"
 :::{card}
 :header: **Instructor Name**
 
-![Adam Lucas](images/firefly-instructor.jpg)
+![Adam Lucas]
 
 +++
 
-* **Office Hours**: Tue 11-12pm (Evans 4019)
-* **Pronouns**: She/Her
-* [instructor@berkeley.edu](mailto:instructor@berkeley.edu)
+* **Office Hours**: Mon 11-2pm (Student Learning Center First Floor Atrium)
+* **Pronouns**: He/Him
+* [alucas@berkeley.edu](mailto:alucas@berkeley.edu)
 :::
 
 :::{card}
